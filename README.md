@@ -16,7 +16,7 @@ The Core Team
 
 Jacques D. Jean - Founder and CEO
 
-	•	A dynamic Sales Engineer at HomeGrid, specializing in battery solutions since July 2023.
+	•	A dynamic Sales Engineer at HomeGrid, specializing in battery solutions since June 2022.
 	•	Leads NeptuneChain with a vision rooted in renewable energy and environmental sustainability.
 	•	Formerly with PriceWaterhouseCoopers LLP, and honed skills in electrical engineering and system design at Sol-Ark.
 
