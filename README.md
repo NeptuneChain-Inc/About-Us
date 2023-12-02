@@ -2,47 +2,48 @@ About Us - NeptuneChain
 
 Introduction
 
-Welcome to NeptuneChain, where innovation meets environmental sustainability. Founded by a team of passionate individuals, we are on a mission to revolutionize water quality standards through advanced technologies and digital solutions.
+Welcome to NeptuneChain, where innovation meets environmental sustainability. We’re on a mission to revolutionize water quality standards with advanced technologies and digital solutions.
 
 Our Mission
 
-NeptuneChain is committed to setting new benchmarks in water quality. Our ambitious goal is to quadruple the nutrient recycling rate in impaired waters across the United States by 2030. We aim to combat nutrient pollution effectively through our innovative digital certifications and software tools.
+At NeptuneChain, we’re committed to setting new benchmarks in water quality. Our goal is to quadruple the nutrient recycling rate in impaired waters across the United States by 2030. Learn more about our mission and goals.
 
 The Market and Product
 
-At NeptuneChain, we operate at the intersection of technology and environmental sustainability. Our focus is on enhancing water quality management through digital solutions, including a water quality trading registry, marketplace, nutrient removal calculator, and other essential tools. These products leverage advanced technologies like blockchain to ensure transparency and efficiency in nutrient pollution trading.
+Operating at the intersection of technology and environmental sustainability, our focus is on enhancing water quality management. Discover more about our innovative products and services, including our digital solutions for nutrient pollution trading.
 
 The Core Team
 
 Jacques D. Jean - Founder and CEO
 
-	•	A dynamic Sales Engineer at HomeGrid, specializing in battery solutions since June 2022.
-	•	Leads NeptuneChain with a vision rooted in renewable energy and environmental sustainability.
-	•	Formerly with PriceWaterhouseCoopers LLP, and honed skills in electrical engineering and system design at Sol-Ark.
+	•	Leading NeptuneChain with a vision rooted in renewable energy and environmental sustainability.
+	•	Learn more about Jacques’s journey and his role at HomeGrid.
+	•	Contact Jacques: jacques@neptunechain.io | LinkedIn Profile
 
 Lily Neilsen - Co-Founder and Methodologist
 
-	•	An environmental policy expert, pursuing an MS in Public Policy at Carnegie Mellon University.
-	•	Leads environmental methodologies at NeptuneChain, with a strong background in sustainable agriculture and organic farming practices.
+	•	An environmental policy expert, spearheading environmental methodologies at NeptuneChain.
+	•	Find out more about Lily’s work and her studies at Carnegie Mellon University.
 
 Addie Mako - Software Engineer
 
-	•	A proficient full-stack web developer, currently engaged with Okamalabs in AI-driven application development.
-	•	Holds a Bachelor of Science in Information Technology from Richfield, specializing in programming languages and database management.
+	•	A full-stack web developer, specializing in AI-driven applications.
+	•	Explore Addie’s professional background and his current role at Okamalabs.
 
 Jacques M. Jean - Business Advisor
 
-	•	Founder and CEO of TechFides, with a strong focus on digital innovation and IT service optimization.
-	•	Actively contributes to NeptuneChain’s mission, advocating for environmental sustainability through blockchain-enabled solutions.
+	•	Founder and CEO of TechFides, advocating for environmental sustainability at NeptuneChain.
+	•	Discover more about Jacques M. Jean’s role at TechFides and his Forbes Technology Council Membership.
 
 Our Vision
 
-NeptuneChain envisions a future where water quality and quantity are managed effectively, leading to a sustainable and prosperous world. Our team’s diverse expertise and commitment are crucial in driving our innovative approach to water management.
+Envisioning a future where water quality and quantity are effectively managed. Join us in shaping a sustainable future for water management.
 
 Connect with Us
 
 For collaborations, inquiries, or more information about NeptuneChain, please contact:
 
-	•	Jacques D. Jean jacques@neptunechain.io | +1 (214) 609-0976
+	•	Jacques D. Jean: jacques@neptunechain.io | +1 (214) 609-0976
+	•	Follow us on LinkedIn, Twitter, or visit our Website.
 
-Join us in shaping a sustainable future for water management.
+Join our journey towards a sustainable future in water management.
