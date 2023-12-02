@@ -18,7 +18,7 @@ Operating at the intersection of technology and environmental sustainability, ou
 
 ### Lily Neilsen - Co-Founder and Methodologist
 - An environmental policy expert, spearheading environmental methodologies at NeptuneChain.
-- Find out more about Lily's work and her studies at [Carnegie Mellon University]([https://www.cmu.edu/).
+- Find out more about Lily's work and her studies at [Carnegie Mellon University](https://www.cmu.edu/).
 
 ### Addie Mako - Software Engineer
 - A full-stack web developer, specializing in AI-driven applications.
