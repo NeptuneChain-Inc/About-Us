@@ -36,6 +36,6 @@ Join us in shaping a sustainable future for water management.
 For collaborations, inquiries, or more information about NeptuneChain, please contact:
 
 - Jacques D. Jean: [jacques@neptunechain.io](mailto:jacques@neptunechain.io) | +1 (214) 609-0976
-- Follow us on [LinkedIn]([https://www.linkedin.com/in/jacquesdjean?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app), [Twitter](https://x.com/neptunechainio/), or visit our [Website](https://wwww.neptunechain.io/).
+- Follow us on [LinkedIn](https://www.linkedin.com/in/jacquesdjean?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app), [Twitter](https://x.com/neptunechainio/), or visit our [Website](https://wwww.neptunechain.io/).
 
 Join our journey towards a sustainable future in water management.
