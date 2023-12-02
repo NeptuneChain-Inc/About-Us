@@ -14,7 +14,7 @@ Operating at the intersection of technology and environmental sustainability, ou
 ### Jacques D. Jean - Founder and CEO
 - Leading NeptuneChain with a vision rooted in renewable energy and environmental sustainability.
 - Learn more about Jacques's journey and his role at [HomeGrid](https://homegridenergy.com).
-- Contact Jacques: [jacques@neptunechain.io](mailto:jacques@neptunechain.io) | [LinkedIn Profile]([(https://www.linkedin.com/in/jacquesdjean?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
+- Contact Jacques: [jacques@neptunechain.io](mailto:jacques@neptunechain.io) | [LinkedIn Profile](https://www.linkedin.com/in/jacquesdjean?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ### Lily Neilsen - Co-Founder and Methodologist
 - An environmental policy expert, spearheading environmental methodologies at NeptuneChain.
