@@ -29,7 +29,8 @@ Operating at the intersection of technology and environmental sustainability, ou
 - Discover more about Jacques M. Jean's role at [TechFides](https://www.techfides.com) and his [Forbes Technology Council Membership]([https://councils.forbes.com/forbestechcouncil).
 
 ## Our Vision
-Envisioning a future where water quality and quantity are effectively managed. Join us in shaping a sustainable future for water management.
+Envisioning a future where water is managed seamlessly. 
+Join us in shaping a sustainable future for water management.
 
 ## Connect with Us
 For collaborations, inquiries, or more information about NeptuneChain, please contact:
